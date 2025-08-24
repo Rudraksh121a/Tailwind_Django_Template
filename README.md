@@ -1,0 +1,1 @@
+do python manage.py tailwind install
